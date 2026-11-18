@@ -1,0 +1,6 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+*.tmp
+/Pirates Of The Caribbean - Main Theme - He's A Pirate.mp3
+/Pirates Of The Caribbean - Main Theme - He's A Pirate.mp3.import
